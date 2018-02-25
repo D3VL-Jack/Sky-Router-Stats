@@ -1,0 +1,11 @@
+{
+  "name": "routerstats",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "routerIP":"192.168.0.1",
+  "routerPort":"80",
+  "auth": {
+    "username": "admin",
+    "password": "admin"
+  },
+  "debug":false
+}
